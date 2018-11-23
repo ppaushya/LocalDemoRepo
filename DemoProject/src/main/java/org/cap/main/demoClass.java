@@ -8,6 +8,7 @@ public class demoClass {
 		System.out.println("Helo World");
 
 		System.out.println("Nice to meet you");
+		System.out.println("welcome to java");
 	}
 
 }
